@@ -52,6 +52,11 @@ transition: 0.2s ease-in-out;
     margin-bottom: -100px;
 }
 
+
+footer {
+margin-top: 600px;
+}
+
 footer img {
   width: 30px;
   transition: 0.2s ease-in-out;
