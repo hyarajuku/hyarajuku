@@ -1,0 +1,28 @@
+.images img {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.images img {
+    transition: 0.3s ease-in-out;
+}
+
+.images img:hover {
+    transform: scale(1.05);
+    transition: 0.3s ease-in-out;
+}
+
+.images {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    justify-items: center;
+    gap: 20px;
+}
+
+figcaption {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 200px;
+}
