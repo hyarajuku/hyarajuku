@@ -18,6 +18,7 @@ html {
         }
 
 ul {
+  width: 100%;
     list-style-type: none;
     display: flex;
     color: #e2ddc5;
