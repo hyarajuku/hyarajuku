@@ -10,7 +10,6 @@
     width: 350px;
     border-radius: 50%;
     transition: 0.3s ease-in-out;
-    
 }
 
 .projectimages img:hover {
@@ -20,5 +19,4 @@
 
 .featuredprojects p {
     font-size: 32px;
-    
 }
